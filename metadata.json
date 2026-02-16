@@ -1,0 +1,5 @@
+{
+  "name": "BlockSmith AI: Minecraft Texture Pack Generator",
+  "description": "An advanced AI-powered tool to create custom Minecraft texture packs. Design block and item textures using Gemini AI, preview them in 3D, and export them as a ready-to-use Minecraft resource pack zip.",
+  "requestFramePermissions": []
+}
